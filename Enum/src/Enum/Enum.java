@@ -20,6 +20,7 @@ public class Enum {
       BITTER,
       SAVORY;
     }
+    
     public static void main(String[] args) {
         // TODO code application logic here
         Flavors myFlavor = Flavors.SWEET;
