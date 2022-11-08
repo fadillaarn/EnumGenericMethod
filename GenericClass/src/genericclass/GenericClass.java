@@ -13,7 +13,6 @@ public class GenericClass<T> {
     /**
      * @param args the command line arguments
      */
-    
     private T t;
     public void set(T t) {
         this.t = t;}
